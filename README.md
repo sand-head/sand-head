@@ -6,6 +6,7 @@ if you wanna get a grasp of some of the things I'm currently working on, check m
 
 ### links:
 
+* check a look at [my personal website](https://schweigert.dev), built using the latest versions of [Tumblepub](https://github.com/sand-head/Tumblepub)!
 * shoot me a DM [via Matrix!](https://matrix.to/#/@justin:schweigert.dev)
 * check out [the Matrix Space](https://matrix.to/#/#justins-projects:schweigert.dev) for all my projects
 * check a look at [my Polywork profile](https://justin.schweigert.dev)
