@@ -1,6 +1,6 @@
 ## howdy! 👋
 
-I'm a 26-year-old software engineer, and this is where I put all the miscellaneous things I work on in my free time.
+I'm a 27-year-old software engineer, and this is where I put all the miscellaneous things I work on in my free time.
 
 if you wanna get a grasp of some of the things I'm currently working on, check my pinned repositories!
 
